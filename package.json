@@ -1,0 +1,19 @@
+{
+  "name": "npm-producer-demo-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "lodash": "^4.0.0",
+    "tap": "*"
+  },
+  "main": "app.js",
+  "devDependencies": {
+    "tap": "^5.0.1"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
